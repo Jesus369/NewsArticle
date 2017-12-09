@@ -1,0 +1,20 @@
+img {
+  height: 320px;
+}
+
+.childPost{
+  width: 30%;
+}
+
+.parentPost {
+  margin: 0 auto 0 auto;
+  width: 80%;
+}
+
+.titlePost {
+  font-size: 1.2em;
+}
+
+.descriptionPost {
+  font-size: 1em;
+}

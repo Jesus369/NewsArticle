@@ -1,0 +1,33 @@
+img {
+  height: 16em;
+}
+
+.parentPost {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+}
+
+.childPost {
+  font-size: 1em;
+  width: 100%;
+}
+
+.titlePost {
+  font-size: 1em;
+}
+
+.descriptionPost {
+  margin-top: 2px;
+  font-size: 1em;
+}
+
+.authorPost {
+  font-size: 1em;
+  font-weight: 700;
+
+}
+
+.datePost {
+  font-size: 1em;
+}

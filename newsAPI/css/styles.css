@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: column;
+  font-family: "Gill Sans";
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+.parentPost {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0 auto 0 auto;
+}
+
+.childPost {
+  border: solid 2px #D0D9DF;
+  border-radius:10px;
+  margin: 0 auto 2em 0;
+}
+
+.titlePost {
+  font-weight: 400;
+}
+
+.descriptionPost {
+  font-family: "Times New Roman";
+}
+
+.authorPost {
+  font-family: "Microsoft Sans Serif";
+  font-weight: 900;
+  margin-left: 5px;
+}
